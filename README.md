@@ -1,2 +1,2 @@
-# Sentiment-Analysis
-My College Project
+# Stock Market Forecasting
+ Specialization Project
